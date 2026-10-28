@@ -1,4 +1,3 @@
-cat << 'EOF' > setup.sh
 #!/bin/bash
 echo "🚀 Re-generating project with Gradle wrapper..."
 
